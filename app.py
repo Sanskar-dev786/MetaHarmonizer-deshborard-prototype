@@ -166,3 +166,6 @@ with tab5:
 
     else:
         st.info("Nothing to export")
+
+
+    # this is a prototype - in a real app we would also export the ontology mappings and other metadata
